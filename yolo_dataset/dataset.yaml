@@ -1,0 +1,9 @@
+names:
+- A_F
+- G_L
+- M_R
+- S_X
+- Y_3
+nc: 5
+train: D:\University\_OVGU\2 semester\Mustererkennung\yolo_dataset\3d_bb_gen_blender_proc\yolo_dataset\images\train
+val: D:\University\_OVGU\2 semester\Mustererkennung\yolo_dataset\3d_bb_gen_blender_proc\yolo_dataset\images\val
